@@ -1,6 +1,6 @@
 FROM openjdk:17-jdk-alpine
 
-LABEL maintainer="Your Name <your@email.com>"
+LABEL maintainer="Aayush M <aayushmeshram.9003@gmail.com>"
 
 RUN mkdir /app
 
